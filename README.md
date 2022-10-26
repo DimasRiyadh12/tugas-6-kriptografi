@@ -4,4 +4,3 @@
 
 ### Output
 
-![img](img/pict/ss1.png)
